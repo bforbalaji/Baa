@@ -1,0 +1,2 @@
+# Baa
+Static pages Example
